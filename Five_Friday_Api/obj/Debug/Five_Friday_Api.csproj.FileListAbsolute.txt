@@ -1,0 +1,156 @@
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\csc.exe
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\vbc.exe
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\VBCSCompiler.exe
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.dll.config
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.pdb
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Antlr3.Runtime.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.SqlServer.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Newtonsoft.Json.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Owin.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Net.Http.Formatting.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Helpers.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.Owin.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.WebHost.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Mvc.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Optimization.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Razor.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Deployment.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Razor.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\WebGrease.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Newtonsoft.Json.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Net.Http.Formatting.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Helpers.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.WebHost.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Mvc.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Optimization.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Razor.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Deployment.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Razor.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Antlr3.Runtime.pdb
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.SqlServer.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.Owin.xml
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.csprojResolveAssemblyReference.cache
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.dll
+c:\users\cash_2\documents\visual studio 2015\Projects\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.pdb
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\csc.exe
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\vbc.exe
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\VBCSCompiler.exe
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.dll.config
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Five_Friday_Api.pdb
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Antlr3.Runtime.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.SqlServer.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Google.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Newtonsoft.Json.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Owin.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Net.Http.Formatting.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Helpers.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.Owin.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.WebHost.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Mvc.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Optimization.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Razor.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Deployment.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Razor.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\WebGrease.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Newtonsoft.Json.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Net.Http.Formatting.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Helpers.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.WebHost.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Mvc.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Optimization.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Razor.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Deployment.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.WebPages.Razor.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Antlr3.Runtime.pdb
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\EntityFramework.SqlServer.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Google.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\bin\System.Web.Http.Owin.xml
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.csprojResolveAssemblyReference.cache
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.csproj.CoreCompileInputs.cache
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.csproj.CopyComplete
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.dll
+E:\Five Friday\Five_Friday_Api\Five_Friday_Api\obj\Debug\Five_Friday_Api.pdb
